@@ -1,6 +1,6 @@
 {
   "name": "RideSafe",
-  "tagline": "Open source fall algorithms for riders",
-  "body": "### What is RideSafe\r\n\r\nBecause safety app must be part of motorbiker kit, Ridesafe was made to detect riders falling and warn right people in real time.",
+  "tagline": "Open source fall apps for riders",
+  "body": "> Because safety app must be part of motorbiker kit, Ridesafe was made to detect riders falling and warn right people in real time.\r\n\r\n![ridesafe logo](https://raw.githubusercontent.com/ridesafe/project/gh-pages/ridesafe_512.jpg)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
