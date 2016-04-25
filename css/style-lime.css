@@ -1,0 +1,325 @@
+﻿/* Color Scheme - Lime */
+
+a {
+	color: #cddc39;
+}
+
+a:hover, a:focus {
+	color: #cddc39;
+}
+
+blockquote:hover::before {
+	border-color: #cddc39;
+}
+
+.highlight {
+	color: #cddc39;
+}
+
+#top-cart-trigger span {
+    background: #cddc39;
+}
+
+.header-nav .bt-dropdown-menu > li > a:focus,
+.header-nav .bt-dropdown-menu > li > a:hover,
+.header-nav .dropdown-submenu.open > a,
+.header-nav .dropdown-submenu.open > a:focus,
+.header-nav .dropdown-submenu.open > a:hover,
+.header-widget.widget-menu ul li a:focus,
+.header-widget.widget-menu ul li a:hover {
+    color: #cddc39;
+}
+
+.mega-menu-content li a:hover {
+	color: #cddc39;
+}
+
+.header-nav.light-dark .bt-dropdown-menu > li > a:focus,
+.header-nav.light-dark .bt-dropdown-menu > li > a:hover,
+.header-nav.light-dark  .dropdown-submenu.open > a,
+.header-nav.light-dark .dropdown-submenu.open > a:focus,
+.header-nav.light-dark .dropdown-submenu.open > a:hover,
+.header-nav.light-dark .header-widget.widget-menu ul li a:focus,
+.header-nav.light-dark .header-widget.widget-menu ul li a:hover {
+    color: #cddc39;
+}
+
+.header-nav.light-dark .mega-menu-content li a:hover {
+    color: #cddc39;
+}
+
+.portfolio-filter li a::before {
+    background-color: #cddc39;
+}
+
+.portfolio-filter .active {
+	border-color: #cddc39;
+	color: #cddc39;
+}
+
+.post .read-more {
+	color: #cddc39;
+}
+
+.blog-container .post .article-content::before,
+.blog-container .post .article-content::after {
+	background: #cddc39;
+}
+
+.comment-list .reply a {
+	color: #cddc39;
+}
+
+.comment-list .reply a:hover {
+	color: #cddc39;
+}
+
+.comment-author a:hover,
+.comment-list .pingback a:hover,
+.comment-list .trackback a:hover,
+.comment-metadata a:hover {
+	color: #cddc39;
+}
+
+.button {
+	background-color: #cddc39;
+}
+
+.button.button-border {
+	border: 2px solid #cddc39;
+	color: #cddc39;
+}
+
+.button.button-border i {
+	color: #cddc39;
+}
+
+.button.button-link,
+.button.button-link-uppercase,
+.button.button-link i,
+.button.button-link-uppercase i {
+	color: #cddc39;
+}
+
+.panel-default>.panel-heading a {
+    color: #cddc39;
+}
+
+.nav-tabs > li.active a {
+	-webkit-box-shadow: inset 0 2px 0 0 #cddc39;
+	-moz-box-shadow: inset 0 2px 0 0 #cddc39;
+	box-shadow: inset 0 2px 0 0 #cddc39;
+}
+
+.nav-tabs > li > a:hover {
+	border: 1px solid transparent;
+	border-bottom: 1px solid #e5e7e9;
+	background: #fff;
+	color: #cddc39;
+}
+
+.alt.nav-tabs > li.active > a,
+.alt.nav-tabs > li.active > a:hover,
+.alt.nav-tabs > li.active > a:focus {
+	color: #cddc39;
+}
+
+.alt.nav-tabs > li > a:hover {
+	color: #cddc39;
+}
+
+.alt.nav-tabs > li.active > a::before,
+.alt.nav-tabs > li > a:hover::before {
+	border-top-color: #cddc39;
+	border-left-color: #cddc39;
+}
+
+.alt.nav-tabs > li.active > a::after,
+.alt.nav-tabs > li > a:hover::after {
+	border-bottom-color: #cddc39;
+	border-right-color: #cddc39;
+}
+
+.ico.nav-tabs > li.active > a,
+.ico.nav-tabs > li.active > a:hover,
+.ico.nav-tabs > li.active > a:focus {
+	color: #cddc39;
+}
+
+.ico.nav-tabs > li > a:hover {
+	color: #cddc39;
+}
+
+.ico.nav-tabs > li > a:hover::before,
+.ico.nav-tabs > li.active > a::before {
+	border-left-color: #cddc39;
+	border-bottom-color: #cddc39;
+}
+
+.ico.nav-tabs > li > a:hover > i,
+.ico.nav-tabs > li.active > a > i {
+	color: #cddc39;
+	border-color: #cddc39;
+}
+
+.ico.nav-tabs > li > a:hover > span,
+.ico.nav-tabs > li.active > a > span {
+	color: #cddc39;
+}
+
+.text.nav-tabs > li.active {
+	box-shadow: 0 1px 0 #cddc39;
+}
+
+.text.nav-tabs > li.active::before {
+	border-color: #cddc39;
+}
+
+.text.nav-tabs > li.active > a,
+.text.nav-tabs > li.active > a:hover,
+.text.nav-tabs > li.active > a:focus {
+	color: #cddc39;
+}
+
+.text.nav-tabs > li > a:hover {
+	color: #cddc39;
+}
+
+.text.nav-tabs > li > a:hover > span,
+.text.nav-tabs > li.active > a > span {
+	color: #cddc39;
+}
+
+.progress-1 .progress-bar {
+	background-color: #cddc39;
+}
+
+.progress-2 .progress-bar {
+	background-color: #cddc39;
+}
+
+.breadcrumb li a:hover {
+	color: #cddc39;
+}
+
+.pagination>li>a:focus,
+.pagination>li>a:hover,
+.pagination>li>span:focus,
+.pagination>li>span:hover {
+	color: #cddc39;
+}
+
+.pagination>.active>a,
+.pagination>.active>a:focus,
+.pagination>.active>a:hover,
+.pagination>.active>span,
+.pagination>.active>span:focus,
+.pagination>.active>span:hover {
+	color: #cddc39;
+}
+
+.pager li>a:focus,
+.pager li>a:hover {
+	color: #cddc39;
+}
+
+.icon-box.bordered:hover .box-container::before,
+.icon-box.bordered:hover .box-container::after {
+	border-color: #cddc39;
+}
+
+.icon-box .icon-box-icon {
+	color: #cddc39;
+}
+
+.icon-box-icon.circle::before {
+	border-left: 1px solid #cddc39;
+	border-bottom: 1px solid #cddc39;
+}
+
+.icon-box-icon.circle .icon-container {
+	border: 1px solid #cddc39;
+}
+
+.icon-box-icon.square::before,
+.icon-box-icon.square .icon-container::before {	
+	border-top: 1px solid #cddc39;
+	border-left: 1px solid #cddc39;
+}
+
+.icon-box-icon.square::after,
+.icon-box-icon.square .icon-container::after {
+	border-bottom: 1px solid #cddc39;
+	border-right: 1px solid #cddc39;
+}
+
+.icon-box.style-2:hover .icon-box-text .icon-box-lines-top::before,
+.icon-box.style-2:hover .icon-box-text .icon-box-lines-top::after,
+.icon-box.style-2:hover .icon-box-text .icon-box-lines-bottom::before {
+	background: #cddc39;
+}
+
+.count-block .fa {
+	color: #cddc39;
+}
+
+.profile-card:hover .user-image::before,
+.profile-card:hover .user-image::after {
+	border-color: #cddc39;
+}
+
+.profile-card:hover .name {
+	color: #cddc39;
+}
+
+.profile-card.bordered:hover .box-container::before,
+.profile-card.bordered:hover .box-container::after {
+	border-color: #cddc39;
+}
+
+.listing a:hover {
+   color: #cddc39;
+}
+
+.social-icon.social-clear:hover,
+.social-icon.social-clear:hover i {
+	color: #cddc39;
+}
+
+.label {
+	background: #cddc39;
+}
+
+.mfp-close-btn-in .mfp-ajax-holder .mfp-close:hover {
+	color: #cddc39;
+}
+
+.testimonial-box:hover .box-container::before,
+.testimonial-box:hover .box-container::after {
+	border-color: #cddc39;
+}
+
+.owl-carousel.nav-inside .owl-controls .owl-buttons div:hover {
+	color: #cddc39;
+}
+
+.owl-carousel.nav-inside.owl-controls-light .owl-controls .owl-prev:hover,
+.owl-carousel.nav-inside.owl-controls-light .owl-controls .owl-next:hover {
+	color: #cddc39;
+}
+
+.filter-size-box.active {
+	background: #cddc39;
+}
+
+body.mobile .header-nav .menu > .bt-dropdown.open > a,
+body.mobile .header-nav .menu > .bt-dropdown.open > a i {
+	color: #cddc39;
+}
+
+@media screen and (max-width:991px){
+	.header-nav .menu > .bt-dropdown.open > a,
+	.header-nav .menu > .bt-dropdown.open > a i {
+		color: #cddc39;
+	}
+}
