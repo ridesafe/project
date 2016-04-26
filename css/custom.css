@@ -2,3 +2,6 @@
 .header-nav.light .menu > li > a{
     color:#333;
 }
+.tp-splitted.tp-linesplit > div > div{
+    text-shadow: 2px 1px rgba(120, 120, 120, 0.8);
+}
