@@ -1,6 +1,7 @@
 ﻿/* Place Your Custom Styles Here */
 .header-nav.light .menu > li > a{
     color:#333;
+    font-weight: bold;
 }
 .tp-splitted.tp-linesplit > div > div{
     text-shadow: 2px 1px rgba(120, 120, 120, 0.8);
